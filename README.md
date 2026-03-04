@@ -33,7 +33,7 @@ overall ordering and checkout experience.
 
 ![Home Screen](MAIN%20PAGE.png)
 
-![Login Screen](lOGIN%20PAGE.png)
+![Login Screen](loGIN%20PAGE.png)
 
 ![Home Page](HOME%20PAGE.png)
 
