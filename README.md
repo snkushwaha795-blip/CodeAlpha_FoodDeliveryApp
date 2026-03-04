@@ -30,16 +30,13 @@ overall ordering and checkout experience.
 [View Figma Prototype]https://www.figma.com/proto/dTmM5OeEb8n7wdNsOzmXSh/FOOD-DELIVERY-APP?node-id=23-104&t=MBi7DF0VTkzC9Pxi-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=21%3A58
 
 ## Screens Preview
-# Food Delivery App – Mobile Redesign
 
-## Screens Preview
+![Home Screen](%20HOMEPAGE.png)
 
-## Screens Preview
+![LOGIN Screen](%20loGINPAGE.png)
 
-![Home Screen](%20MAINPAGE.png)
+![MAIN Screen](%20MAINPAGE.png)
 
-![Login Screen](%20loGINPAGE.png)
+![CART Screen](%20CART2.png)
 
-![Home Page](HOME%20PAGE.png)
 
-![Payment Screen](PAYMENT%20DONE.png)
