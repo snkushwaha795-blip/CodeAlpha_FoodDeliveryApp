@@ -34,12 +34,12 @@ overall ordering and checkout experience.
 
 ## Screens Preview
 
-![Home Screen](SCREENS/MAIN%20PAGE.png)
+## Screens Preview
 
-![Login Screen](SCREENS/loGIN%20PAGE.png)
+![Home Screen](%20MAINPAGE.png)
 
-![Home Page](SCREENS/HOME%20PAGE.png)
+![Login Screen](%20loGINPAGE.png)
 
-![Payment Screen](PAYMENT%20DONE/CART%201.png)
+![Home Page](HOME%20PAGE.png)
 
-![Checkout Screen](SCREENS/CART%201.png)
+![Payment Screen](PAYMENT%20DONE.png)
