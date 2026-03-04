@@ -27,7 +27,7 @@ overall ordering and checkout experience.
 - Order Confirmation
 
 ## Prototype Link
-[View Figma Prototype]https://www.figma.com/proto/dTmM5OeEb8n7wdNsOzmXSh/FOOD-DELIVERY-APP?node-id=23-104&t=MBi7DF0VTkzC9Pxi-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=21%3A58
+[View Figma Prototype]https://www.figma.com/proto/dTmM5OeEb8n7wdNsOzmXSh/FOOD-DELIVERY-APP?node-id=21-58&p=f&t=dCbroepXgj0sj2HT-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=21%3A58
 
 ## Screens Preview
 
